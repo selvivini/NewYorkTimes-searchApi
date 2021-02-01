@@ -9,3 +9,6 @@ The user can clear the results when he presees the clear Button.
 ### Mockup
 The following shows the mockup of the Application
 ![NewYorkTimesSearch](Assets/nytSearch.PNG)
+
+### Github Page
+[NytSearch](https://selvivini.github.io/NewYorkTimes-searchApi/)
